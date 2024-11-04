@@ -13,3 +13,9 @@ Can take up to a minute because python is slow.
 ### Combine frames
 Place encode.bat in /output and run it. Requires ffmpeg.  
 Had issues with this on windows. 
+### Current limitations 
+No enemies  
+Only small mario  
+No swimming  
+No death animation  
+Only one room  
