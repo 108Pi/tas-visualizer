@@ -19,3 +19,4 @@ Only small mario
 No swimming  
 No death animation  
 Only one room  
+Always in front of background
