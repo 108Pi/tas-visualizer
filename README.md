@@ -5,6 +5,7 @@ Stop script when Mario changes rooms.
 Do this for each tas. Make sure you change the file name in the lua script.
 ### Generate frames
 Add the path of each output file to the python script.  
+**Make sure you have a picture of the level saved as map.png**.  
 Set the endframe. Likely best to set it to the length of the longest tas.  
 Make sure /output folder exists.  
 Run python script. Requires pandas and pillow.  
